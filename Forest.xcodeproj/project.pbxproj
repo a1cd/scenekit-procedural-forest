@@ -185,7 +185,7 @@
 				TargetAttributes = {
 					7EAA76331CBB2CE500DFF0D2 = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = 28CKN66NP3;
+						DevelopmentTeam = 8LM4R9G4S4;
 						LastSwiftMigration = 1020;
 					};
 				};
@@ -375,7 +375,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 28CKN66NP3;
+				DEVELOPMENT_TEAM = 8LM4R9G4S4;
 				INFOPLIST_FILE = Forest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
